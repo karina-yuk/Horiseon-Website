@@ -60,7 +60,7 @@ p {
 }
 
 /* Class Selector */
-.hero {
+figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -82,7 +82,7 @@ p {
 }
 
 /* Class Selector */
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
