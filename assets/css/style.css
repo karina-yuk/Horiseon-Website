@@ -110,7 +110,7 @@ main {
 }
 
 /* Class Selector */
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -122,30 +122,19 @@ main {
 }
 
 /* Class Selector */
-.benefit-lead,
-.benefit-brand,
-.benefit-cost {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /* Class Selector */
-.benefit-lead h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 /* Class Selector */
-.benefit-brand h3,
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* Class Selector */
-.benefit-lead img,
-.benefit-brand img,
-.benefit-cost img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
