@@ -9,7 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Class Selector */
+/* Element Selector */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -17,18 +17,17 @@ header {
     color: #ffffff;
 }
 
-/* Class Selector */
+/* Element Selector */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
-/* Class Selector */
-.header h1 .seo {
+/* Element Selector */
+header h1 .seo {
     color: #d9dcd6;
 }
 
-/* Class Selector */
+/* Element Selector */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -37,12 +36,12 @@ header nav {
     font-size: 20px;
 }
 
-/* Class Selector */
+/* Element Selector */
 header nav ul {
     list-style-type: none;
 }
 
-/* Class Selector */
+/* Element Selector */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -59,7 +58,7 @@ p {
     font-size: 16px;
 }
 
-/* Class Selector */
+/* Element Selector */
 figure {
     height: 800px;
     width: 100%;
@@ -81,7 +80,7 @@ figure {
     margin-left: 25px;
 }
 
-/* Class Selector */
+/* Element Selector */
 main {
     width: 75%;
     display: inline-block;
@@ -109,7 +108,7 @@ main {
     font-size: 36px;
 }
 
-/* Class Selector */
+/* Element Selector */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -142,7 +141,7 @@ aside {
 
 
 
-/* Class Selector */
+/* Element Selector */
 footer {
     padding: 30px;
     clear: both;
@@ -150,7 +149,7 @@ footer {
     text-align: center;
 }
 
-/* Class Selector */
+/* Element Selector */
 footer h2 {
     font-size: 20px;
 }
