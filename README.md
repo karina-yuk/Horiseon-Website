@@ -14,3 +14,5 @@ Class element was removed.
 [Deployment Link](https://karina-yuk.github.io/Horiseon-Website/)
 
 ## References
+<https://www.w3schools.com/css/css_selectors.asp#:~:text=CSS%20selectors%20are%20used%20to,a%20specific%20relationship%20between%20them)>
+<https://www.w3schools.com/tags/default.asp>
